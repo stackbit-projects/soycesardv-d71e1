@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: I’m Cesar David.
+    title: 'I’m Cesar David. '
     actions:
       - label: Contact Me
         url: /contact
