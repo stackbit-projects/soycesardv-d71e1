@@ -19,6 +19,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    subtitle: 'Desarrollador Full Stack. '
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
